@@ -33,22 +33,6 @@ for (i =0; i <4; i++){
 let loop=[20,30,78,98,90,78]
 arrNu(loop)
 
-// function arrays(arr){
-//    let empty=[];  
-// for(i=0;i<4;i<num.length;i++){
-//    let mun=[5,7,90,8,6,4,67];
-//    let sum=0;
-//    if((i<4)*8){
-//       empty.push(arrays[i]);
-//    }
-//    else{
-//       empty.push(arrays[i]+5)
-//    }
-   
-//    console.log(empty);
-// }
-// }
-
 
 // // Write a function that takes in the following array and use a while loop to 
 // iterate and break when the item is equal to the fourth index
